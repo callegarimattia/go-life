@@ -1,2 +1,3 @@
 # go-life
-game of life written in go
+
+Conway's Game of Life in Go.
